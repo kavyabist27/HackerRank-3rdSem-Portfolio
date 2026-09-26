@@ -1,13 +1,3 @@
-https://www.hackerrank.com/challenges/diagonal-difference/submissions/code/483727526
-
-https://www.hackerrank.com/challenges/dynamic-array/submissions/code/483727838
-
-https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/submissions/code/483727932
-
-https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/483728011
-
-https://www.hackerrank.com/challenges/sparse-arrays/submissions
-
 # HackerRank Algorithmic Problem-Solving & Portfolio
 
 **HackerRank Profile:** [Kavya Bist (kavyabist27)](https://www.hackerrank.com/kavyabist27)
